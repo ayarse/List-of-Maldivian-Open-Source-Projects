@@ -1,7 +1,5 @@
-List-of-Maldivian-Open-Source-Projects
-======================================
-
 List of Maldivian-made open source projects on GitHub.
+======================================
 
 - [ThaanaTextView](https://github.com/jinahadam/ThaanaTextView) - [jinahadam](https://github.com/jinahadam)
 - [iDhivehiSites-](https://github.com/jinahadam/iDhivehiSites-) - [jinahadam](https://github.com/jinahadam)
