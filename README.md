@@ -1,6 +1,7 @@
 List of Maldivian-made open source projects on GitHub.
 ======================================
 
+- [ThaanaText](https://github.com/ajaaibu/ThaanaText) - [ajaaibu](https://github.com/ajaaibu)
 - [ThaanaTextView](https://github.com/jinahadam/ThaanaTextView) - [jinahadam](https://github.com/jinahadam)
 - [iDhivehiSites-](https://github.com/jinahadam/iDhivehiSites-) - [jinahadam](https://github.com/jinahadam)
 - [basfoiy.mv](https://github.com/mbting/basfoiy) - [mbting](https://github.com/mbting)
@@ -18,9 +19,18 @@ List of Maldivian-made open source projects on GitHub.
 - [mv-wordlist](https://github.com/kudanai/mv-wordlist) - [kudanai](https://github.com/kudanai)
 - [osx_radheef](https://github.com/kudanai/osx_radheef) - [kudanai](https://github.com/kudanai)
 - [MSE-Cydget](https://github.com/kudanai/MSE-Cydget) - [kudanai](https://github.com/kudanai)
+- [libmalemap](https://github.com/kudanai/libmalemap) - [kudanai](https://github.com/kudanai)
+- [libDhiraagu](https://github.com/kudanai/libDhiraagu) - [kudanai](https://github.com/kudanai)
+- [ThaanaDroid](https://github.com/kudanai/ThaanaDroid) - [kudanai](https://github.com/kudanai)
+- [Thaana-OSX](https://github.com/kudanai/Thaana-OSX) - [kudanai](https://github.com/kudanai)
+- [bas-emuni](https://github.com/kudanai/bas-emuni) - [kudanai](https://github.com/kudanai)
 - [Maldives-Constitution-EPUB](https://github.com/kudanai/Maldives-Constitution-EPUB) - [kudanai](https://github.com/kudanai)
+- [pythaana](https://github.com/kudanai/pythaana) - [kudanai](https://github.com/kudanai)
 - [mv-fonts](https://github.com/awwam/mv-fonts) - [awwam](https://github.com/awwam)
 - [thaana_conversions_php](https://github.com/jawish/thaana_conversions_php) - [jawish](https://github.com/jawish)
 - [thaana_date_php](https://github.com/jawish/thaana_date_php) - [jawish](https://github.com/jawish)
+- [jtk](https://github.com/jawish/jtk) - [jawish](https://github.com/jawish)
 - [FreeMaldives-](https://github.com/Sofwath/FreeMaldives-) - [Sofwath](https://github.com/Sofwath)
 - [thaana_news](https://github.com/Maxsy/thaana_news) - [Maxsy](https://github.com/Maxsy)
+- [ngThaana](https://github.com/raftalks/ngThaana) - [raftalks](https://github.com/raftalks)
+- [Thaana-iPhone---iPad](https://github.com/afxal/Thaana-iPhone---iPad) - [afxal](https://github.com/afxal)
